@@ -1,0 +1,9 @@
+.reach/*
+.vscode/*
+build/*
+build
+.vscode
+.reach
+.dockerignore
+Dockerfile
+
